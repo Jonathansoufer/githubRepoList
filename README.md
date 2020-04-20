@@ -35,5 +35,5 @@ That's just an exercise for training Typescript oriented development.
 ## Screens
 
 ![Search screen](src/assets/screen1.png)
-![List screen]('src/assets/screen1.png)
+![List screen](src/assets/screen2.png)
 
