@@ -18,7 +18,7 @@ That's just an exercise for training Typescript oriented development.
 ## Features
 
 * router management
-* local storage (state)
+* local storage
 
 ## Technologies
 
@@ -30,4 +30,10 @@ That's just an exercise for training Typescript oriented development.
 
 ## Status
 
-* working in progress
+* Done
+
+## Screens
+
+![Search screen]('./src/assets/screen1.png')
+![List screen]('./src/assets/screen1.png')
+
